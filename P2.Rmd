@@ -1,0 +1,15 @@
+---
+title: "P2"
+author: "AO Valdes"
+output:
+  html_document:
+    highlight: kate
+    theme: cosmo
+    toc_depth: 5
+  pdf_document:
+    toc_depth: 5
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
